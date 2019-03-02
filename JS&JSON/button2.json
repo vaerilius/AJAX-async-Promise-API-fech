@@ -1,0 +1,23 @@
+[
+
+{
+  "name" : "timo",
+  "age" : 33,
+  "title" : "studier"
+},
+{
+  "name" : "sinikka",
+  "age" : 33,
+  "title" : "studier"
+},
+{
+  "name" : "raimo",
+  "age" : 34,
+  "title" : "studier"
+},
+{
+  "name" : "pekka",
+  "age" : 33,
+  "title" : "studier"
+}
+]
