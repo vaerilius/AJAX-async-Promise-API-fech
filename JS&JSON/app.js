@@ -11,7 +11,7 @@ function loadFile() {
   xhr.onload = function () {
     if (this.status === 200) {
 
-      // console.log(this.responseText);
+      console.log(this.responseText);
       const output1 = JSON.parse(this.responseText);
       const output = `
       <ul>
